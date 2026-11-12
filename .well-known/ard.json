@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:riosadvogados.com.br:site:llms",
+      "displayName": "Rios Advogados — resumo para IA",
+      "type": "text/markdown",
+      "url": "https://gabrielbispodev.github.io/rios-advogados/llms.txt",
+      "description": "Escritório de Direito de Trânsito em Goiânia: serviços, equipe, contato e perguntas frequentes.",
+      "representativeQueries": [
+        "advogado de trânsito em Goiânia",
+        "recurso de multa e suspensão da CNH",
+        "como contratar a Rios Advogados"
+      ]
+    },
+    {
+      "identifier": "urn:air:riosadvogados.com.br:site:home",
+      "displayName": "Rios Advogados — site",
+      "type": "text/html",
+      "url": "https://gabrielbispodev.github.io/rios-advogados/",
+      "representativeQueries": [
+        "defesa de CNH cassada",
+        "recurso de Lei Seca em Goiânia"
+      ]
+    }
+  ]
+}
