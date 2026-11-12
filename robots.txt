@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# assistentes de IA também podem ler
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://gabrielbispodev.github.io/rios-advogados/sitemap.xml
